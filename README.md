@@ -8,7 +8,6 @@ Naturalist is a clean and simple animated product showcase website built using *
 ## Features
 - **Clean Design**: A minimalistic and visually pleasing layout to focus attention on the products.
 - **Smooth Animations**: Product transitions and animations using GSAP for an engaging experience.
-- **Responsive**: The website is designed to look great on all devices.
 - **Custom Animations**: Animations are handled using GSAP for enhanced flexibility and performance.
 
 ## Tech Stack
