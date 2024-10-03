@@ -19,7 +19,7 @@ Naturalist is a clean and simple animated product showcase website built using *
 ## How to Run the Project
 1. Clone the repository:
    ```bash
-   git clone https://github.com/vedantraval3011/naturalist.git
+   git clone https://github.com/VedantRaval3011/Naturalist.git
    ```
 2. Navigate to the project directory:
    ```bash
