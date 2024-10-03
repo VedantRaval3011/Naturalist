@@ -1,0 +1,14 @@
+{
+  "name": "Naturalist",
+  "version": "1.0.0",
+  "description": "This is product showcase website made by using GSAP",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Vedant Raval",
+  "license": "ISC",
+  "dependencies": {
+    "gsap": "^3.12.5"
+  }
+}
