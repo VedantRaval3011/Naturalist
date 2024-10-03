@@ -44,8 +44,6 @@ You can view a live demo of the project [here](https://your-live-demo-link.com).
 ## Contributing
 Feel free to submit a pull request if you want to contribute to this project. Any contributions, such as adding new features, fixing bugs, or improving documentation, are welcome.
 
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
 Feel free to fork this repository, modify it as needed, and use it for your own projects. If you find it useful, consider giving the repository a star!
